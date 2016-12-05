@@ -1,2 +1,2 @@
 # model-galaxy-photometry
-Modeling galaxy photometric luminosities
+Modeling galaxy photometric luminosities.
